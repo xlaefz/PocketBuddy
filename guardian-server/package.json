@@ -1,0 +1,28 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Matt Condon <m@cond.in> (http://mat.tc)",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^2.10.0",
+    "connect-mongo": "^0.8.2",
+    "express": "^4.13.3",
+    "express-session": "^1.11.3",
+    "hbs": "^3.1.1",
+    "lodash": "^3.10.1",
+    "mongoose": "^4.1.6",
+    "mongoose-findorcreate": "^0.1.2",
+    "passport": "^0.3.0",
+    "passport-oauth2-refresh": "^0.4.0",
+    "passport-uber": "0.0.1",
+    "request": "^2.61.0",
+    "request-promise": "^0.4.3",
+    "twilio": "^2.3.0"
+  }
+}
