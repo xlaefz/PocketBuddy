@@ -1,0 +1,26 @@
+PODS:
+  - GoogleMaps (2.2.0):
+    - GoogleMaps/Maps (= 2.2.0)
+  - GoogleMaps/Base (2.2.0)
+  - GoogleMaps/Maps (2.2.0):
+    - GoogleMaps/Base
+  - GooglePlaces (2.2.0):
+    - GoogleMaps/Base (= 2.2.0)
+  - ObjectMapper (1.5.0)
+  - UberRides (0.6.0):
+    - ObjectMapper (~> 1.0)
+
+DEPENDENCIES:
+  - GoogleMaps
+  - GooglePlaces
+  - UberRides
+
+SPEC CHECKSUMS:
+  GoogleMaps: 104c418d61ab8a05dff06ed0784c25ea9d37da45
+  GooglePlaces: bca867d5e9da15384c794b945e4226848bc6e9d9
+  ObjectMapper: 386645adca9d9d23b95eda43090b09d66444cf14
+  UberRides: 06d27966d0488209fc4e5a283af6e36e8b0ed7e2
+
+PODFILE CHECKSUM: 8b6e7483650ddc655201afd3caa2902b46e3f668
+
+COCOAPODS: 1.1.1

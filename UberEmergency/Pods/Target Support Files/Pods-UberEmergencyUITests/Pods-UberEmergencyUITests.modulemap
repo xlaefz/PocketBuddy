@@ -1,0 +1,6 @@
+framework module Pods_UberEmergencyUITests {
+  umbrella header "Pods-UberEmergencyUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

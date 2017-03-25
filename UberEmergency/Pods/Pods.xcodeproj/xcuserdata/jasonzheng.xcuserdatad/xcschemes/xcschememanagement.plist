@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>ObjectMapper.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-UberEmergency.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-UberEmergencyTests.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-UberEmergencyUITests.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>UberRides.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>22E9CF36082AEECD72874E3EB97F6CFC</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>2E6DF43034ACC6411639B7840122898F</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>40A16CB0CB5FD49FD533BBC4F0A0C888</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>4F97BA8E1B1E3EE919A8D17E0803F9AE</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>5D4E804CA259107E49D83B438FA99DC6</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
